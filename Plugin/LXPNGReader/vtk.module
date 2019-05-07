@@ -1,0 +1,22 @@
+NAME
+  LXPNG
+LIBRARY_NAME
+  LXPNG
+IMPLEMENTABLE
+DEPENDS
+  VTK::CommonCore
+  VTK::CommonExecutionModel
+  VTK::IOImage
+PRIVATE_DEPENDS
+  VTK::CommonDataModel
+  VTK::CommonMath
+  VTK::CommonMisc
+  VTK::CommonSystem
+  VTK::CommonTransforms
+  VTK::DICOMParser
+  VTK::jpeg
+  VTK::metaio
+  VTK::png
+  VTK::tiff
+  VTK::vtksys
+  VTK::zlib
